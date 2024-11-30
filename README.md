@@ -1,59 +1,6 @@
 
 <h1 align='center'> EMPLOYEE PAYROLL MANAGEMENT SYSTEM </h1>
 
-<!-- tag line -->
-<h3 align='center'> Employee Payroll Management System<br> using Java Swing GUI (CODE) </h3>
-
-
-<!-- personal badges -------------------------------------->
-<br>
-<p align="center">
-
-  <!-- my name -->
-  <img alt='/e/' src='https://img.shields.io/badge/MADE_BY - EMMAN_P_BARRAMEDA-100000?style=for-the-badge&logo=/e/&logoColor=1877F2&labelColor=FFFFFF&color=1877F2'/>
-  
-  <!-- open source -->
-  <img alt='Git' src='https://img.shields.io/badge/OPEN_SOURCE-100000?style=for-the-badge&logo=Git&logoColor=FFF9F9&labelColor=FE7D37&color=FE7D37'/>
-  
-  <!-- private -->
-  <!-- 
-  <img alt='Pocket' src='https://img.shields.io/badge/PRIVATE_CODE-100000?style=for-the-badge&logo=Pocket&logoColor=FFFFFF&labelColor=343434&color=343434'/>
-  -->
-
-</p>  
-  
-<!-- primary badges -------------------------------------->
-<p align="center" style="margin-bottom: 0;">
-  
-  <!-- language -->
-  <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white' />  
-  <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' />  
-  
-  <!-- netbeans -->
-  <img src='https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white' />  
-  <img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white' />   
-  
-  <!-- sqlite -->
-  <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' />    
-  
-</p>
-
-<!-- other badges -------------------------------------->
-<p align="center">
-  
-  <!-- views -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femmanpbarrameda%2FEmployeePayrollManagementSystem_Java-CODE&count_bg=%233D7CC8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true"/>
-  
-  <!-- follow -->
-  <img src='https://img.shields.io/github/followers/emmanpbarrameda.svg?style=social&label=Follow&maxAge=2592000' />      
-  
-  <!-- license -->
-  <img src='https://img.shields.io/github/license/emmanpbarrameda/EmployeePayrollManagementSystem_Java-CODE.svg?style=flat-square' />    
-  
-</p>
-
-
-<!-- ------ -->
 
 ## 🖍 About
 - The <b>"Employee Payroll Management System"</b> by Emman P. Barrameda is my practice project based on Java Swing, developed during the Covid lockdown in May 2020. This system was created to enhance my knowledge in desktop development as a Desktop Developer. It consists of an installer, a main application and an embedded SQLite database. Furthermore, this project is open for further development and improvements. I hope you appreciate this project, and if you have any questions, please feel free to [contact me](#get-in-touch).
