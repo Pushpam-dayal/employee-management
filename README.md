@@ -146,29 +146,3 @@ In short, the MIT License states:
 
 <!-- ------ -->
 
-## ⚡ **Account Settings**
-- Userlevel: <b> Admin </b>
-> Username: Admin1 <br>
-> Password: 87654321
-
-- Userlevel: <b> Super Admin </b>
-> Username: Admin2 <br>
-> Password: 87654321
-<br>
-
-<!-- ------ -->
-
-
-## :thumbsup: **If you want to say thank you and/or support the project:**
-1. Add a GitHub :star2:Star to the project.
-2. Tweet about the project on your [![Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-3. Support the project by donating via  [![Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/emmanpbarrameda)
-<br>
-<br>
-
-<!-- ------ -->
-
-
-------------
-
-
